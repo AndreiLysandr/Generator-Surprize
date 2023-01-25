@@ -11,4 +11,5 @@
       - clase abstracte
       - factory pattern
       - singleton
+      - delegare
   
